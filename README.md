@@ -25,7 +25,7 @@ conda install python==3.11.5 pandas==2.1.1 numpy==1.26.0
 
 5. Install [BLAT](https://anaconda.org/bioconda/blat), which can be installed through bioconda.
 
-6. Download additional files from FigShare (https://figshare.com/account/projects/185062/articles/24501754) and put the files the following locations.
+6. Download additional files from FigShare (https://figshare.com/articles/dataset/testdata_fastq/24501754) and put the files the following locations.
 ```
 data/testdata.fastq
 data/ref/hg19_genCode19_rename.fa
