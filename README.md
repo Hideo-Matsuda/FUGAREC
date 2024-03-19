@@ -8,7 +8,7 @@ FUGAREC is a tool to detect fusion genes from long read RNA-seq data.
 - pandas (tested with version 2.1.1)
 - numpy (tested with version 1.26.0)
 
-# Installarion
+# Installation
 1. Clone and enter this repository:
 ```
 git clone https://github.com/Hideo-Matsuda/FUGAREC
