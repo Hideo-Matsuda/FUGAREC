@@ -55,3 +55,19 @@ sh src/run_blat.sh
 
 4. Detect fusion gene  
 `Run Detect_Fusion.ipynb`
+
+## Citing this work
+
+If you use the code or data in this tool, please cite:
+```
+@article{Keigo Masuda2024,
+  title={Detecting Fusion Genes in Long-Read Transcriptome Sequencing Data with FUGAREC},
+  author={Keigo Masuda and Yoshiaki Sota and Hideo Matsuda},
+  journal={IPSJ Transactions on Bioinformatics},
+  volume={17},
+  number={ },
+  pages={1-9},
+  year={2024},
+  doi={10.2197/ipsjtbio.17.1}
+}
+```
