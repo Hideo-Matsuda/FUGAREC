@@ -56,7 +56,7 @@ sh src/run_blat.sh
 4. Detect fusion gene  
 `Run Detect_Fusion.ipynb`
 
-## Citing this work
+# Citing this work
 
 If you use the code or data in this tool, please cite:
 ```
